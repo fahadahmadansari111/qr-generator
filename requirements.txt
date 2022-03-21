@@ -1,3 +1,4 @@
 pillow
 qrcode
 django
+Cactus==3.3.3
